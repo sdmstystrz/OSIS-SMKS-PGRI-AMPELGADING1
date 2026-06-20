@@ -1,0 +1,202 @@
+ *,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+}
+
+.JUDUL {
+  display: flex;
+  background-color: navy;
+   height: 70px;
+   width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.NAMA {
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+  
+}
+
+.PNG {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.GAMBAR {
+  width: 40%;
+  height: 40%;
+  
+  
+}
+
+.STRUKTUR1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: navy;
+}
+
+.STRUKTUR2 {
+  
+}
+
+.STRUKTUR3 {
+  list-style-type: none;
+  border: 2px solid navy;
+  color: white;
+}
+
+.KETOS1 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  font-size: 30px;
+  font-style: bold;
+}
+
+img {
+    width: 250px;
+}
+
+.SEKRETARIS {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 30px;
+  font-style: bold;
+}
+
+img {
+  width: 250px;
+}
+
+.BENDAHARA {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 30px;
+  font-style: bold;
+}
+
+img {
+  width: 250px;
+}
+
+.SEKBID1 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 30px;
+  font-style: bold;
+}
+
+img {
+  width: 250px;
+}
+
+.SEKBID2 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 30px;
+  font-style: bold;
+}
+
+img {
+  width: 250px;
+}
+
+.SEKBID3 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 30px;
+  font-style: bold;
+}
+
+img {
+  width: 250px;
+}
+
+.SEKBID4 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 30px;
+  font-style: bold;
+}
+
+img {
+  width: 250px;
+}
+
+.SEKBID5 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 30px;
+  font-style: bold;
+}
+
+img {
+  width: 250px;
+}
+
+.SEKBID6 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 30px;
+  font-style: bold;
+}
+
+img {
+  width: 250px;
+}
+
+.SEKBID7 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 30px;
+  font-style: bold;
+}
+
+img {
+  width: 250px;
+}
+
+.SEKBID8 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 30px;
+  font-style: bold;
+}
+
+img {
+  width: 500px;
+}
+
+.ig-btn {
+    display: flex;
+    justify-content: center;
+  align-items: center;
+    margin-top: 10px;
+}
+
+.ig{
+  width: 40px;
+  height: 40px;
+}
+
+.bb {
+}
